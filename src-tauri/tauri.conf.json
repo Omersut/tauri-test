@@ -82,7 +82,11 @@
         "removeDir": false,
         "removeFile": false,
         "renameFile": false,
-        "scope": ["$APP/*", "$DOCUMENT/*", "$DOWNLOAD/*"],
+        "scope": [
+          "$APP/*",
+          "$DOCUMENT/*",
+          "$DOWNLOAD/*"
+        ],
         "writeFile": true
       },
       "globalShortcut": {
